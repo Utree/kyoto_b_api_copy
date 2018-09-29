@@ -1,0 +1,1 @@
+# LINE SCHOOL 2018 のAPI copy
