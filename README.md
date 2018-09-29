@@ -1,4 +1,5 @@
 # LINE SCHOOL 2018 のAPI copy
+sourcetree の使い方の勉強用です
 
 ### MySQL 仮想環境を準備する
 
